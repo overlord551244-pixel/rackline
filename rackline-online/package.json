@@ -1,0 +1,10 @@
+{
+  "name": "rackline-online",
+  "version": "1.0.0",
+  "description": "Rackline: online 8-ball pool for 2 or 4 players",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": {},
+  "license": "MIT"
+}
